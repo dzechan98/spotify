@@ -77,8 +77,14 @@
   .packages__item-text {
     text-align: left;
   }
+  .btn {
+    margin-right: 0;
+  }
   .title {
     font-size: 28px;
+  }
+  .premium__content {
+    justify-content: center;
   }
   .premium__content-item {
     flex-basis: 100%;
@@ -152,6 +158,9 @@
   }
   .banner__btn {
     display: block;
+  }
+  .btn {
+    padding: 6px 12px;
   }
   .packages__item {
     flex-basis: 100%;

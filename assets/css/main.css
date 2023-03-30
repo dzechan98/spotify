@@ -187,6 +187,7 @@
   margin-top: 30px;
   flex-wrap: wrap;
   justify-content: space-between;
+
   align-items: center;
 }
 .premium__content-item {
@@ -220,12 +221,12 @@
 .text--premium,
 .text--premium-icon {
   color: #000;
-  font-size: 16px;
+  font-size: 14px;
   margin-bottom: 10px;
 }
 .premium__content-text {
   padding-bottom: 30px;
-  height: 190px;
+  height: 220px;
 }
 .text--premium-icon i {
   font-size: 24px;
@@ -243,9 +244,7 @@
   color: #000;
   border: 2px solid #000;
 }
-.premium .btn {
-  margin-right: 0;
-}
+
 #footer {
   background-color: #000;
   padding: 60px 70px 40px 70px;
